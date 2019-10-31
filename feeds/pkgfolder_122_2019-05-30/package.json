@@ -1,5 +1,5 @@
 {
 	"dependencies": {
-		"knex": "0.13.0"
+		"knex": "0.19.5"
 	}
 }
